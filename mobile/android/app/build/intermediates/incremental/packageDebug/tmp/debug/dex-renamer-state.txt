@@ -1,0 +1,4 @@
+#Wed Mar 18 13:05:35 BRT 2020
+base.0=C\:\\Users\\Gabriel\\Documents\\SoftFenix\\Mobile\\rn_chat_websocket\\mobile\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
